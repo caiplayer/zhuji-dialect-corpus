@@ -1,0 +1,4 @@
+speaker_id,birth_year,age_group,gender_optional,birth_place,township,years_in_zhuji,home_language,self_dialect_level,consent_level,notes
+S001,1958,60s,F,诸暨枫桥,枫桥,60+,诸暨话,native,B,虚构样例
+S002,1987,30s,M,诸暨店口,店口,30+,诸暨话和普通话,fluent,C,虚构样例
+

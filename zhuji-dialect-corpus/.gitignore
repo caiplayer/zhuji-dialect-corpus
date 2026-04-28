@@ -1,0 +1,31 @@
+# Large or private audio data
+raw_audio/
+processed_audio/
+*.wav
+*.flac
+*.mp3
+*.m4a
+
+# Keep curated small samples
+!data/samples/
+!data/samples/README.md
+!data/samples/*.json
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+.mypy_cache/
+.venv/
+venv/
+
+# System files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Local exports
+hf_dataset/
+exports/
+

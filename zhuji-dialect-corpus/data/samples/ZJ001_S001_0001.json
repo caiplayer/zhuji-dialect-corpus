@@ -1,0 +1,18 @@
+{
+  "segment_id": "ZJ001_S001_0001",
+  "recording_id": "ZJ001_S001_20260429_free_001",
+  "speaker_id": "S001",
+  "audio_path": "processed_audio/ZJ001_S001_0001.wav",
+  "start_sec": 3.0,
+  "end_sec": 8.5,
+  "dialect_text": "今朝天气蛮好个",
+  "mandarin_translation": "今天天气很好",
+  "normalized_text": "今天天气很好",
+  "township": "枫桥",
+  "age_group": "60s",
+  "topic": "天气",
+  "consent_level": "B",
+  "license": "CC BY-NC 4.0",
+  "review_status": "draft"
+}
+

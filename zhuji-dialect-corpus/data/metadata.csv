@@ -1,0 +1,5 @@
+segment_id,audio_path,dialect_text,mandarin_translation,speaker_id,township,age_group,gender_optional,topic,license
+ZJ001_S001_0001,processed_audio/ZJ001_S001_0001.wav,今朝天气蛮好个,今天天气很好,S001,枫桥,60s,F,天气,CC BY-NC 4.0
+ZJ001_S001_0002,processed_audio/ZJ001_S001_0002.wav,老底子过年要做米果个,以前过年要做米果,S001,枫桥,60s,F,年俗,CC BY-NC 4.0
+ZJ001_S002_0001,processed_audio/ZJ001_S002_0001.wav,侬吃饭了伐,你吃饭了吗,S002,店口,30s,M,吃饭,CC BY-NC 4.0
+

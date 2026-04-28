@@ -1,0 +1,4 @@
+recording_id,speaker_id,date,location_type,device,format,duration_sec,genre,consent_level,license,notes
+ZJ001_S001_20260429_free_001,S001,2026-04-29,home,smartphone,wav,62.5,free,B,CC BY-NC 4.0,虚构样例含轻微环境噪声
+ZJ001_S002_20260429_sentence_001,S002,2026-04-29,home,smartphone,flac,45.0,sentence,C,CC BY-NC 4.0,虚构样例
+

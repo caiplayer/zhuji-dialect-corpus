@@ -1,0 +1,31 @@
+{
+  "segment_id": "ZJ001_S001_0001",
+  "recording_id": "ZJ001_S001_20260429_free_001",
+  "speaker": {
+    "speaker_id": "S001",
+    "birth_year": 1958,
+    "age_group": "60s",
+    "gender_optional": "F",
+    "township": "枫桥",
+    "home_language": "诸暨话",
+    "self_dialect_level": "native"
+  },
+  "audio": {
+    "audio_path": "processed_audio/ZJ001_S001_0001.wav",
+    "start_sec": 3.0,
+    "end_sec": 8.5,
+    "format": "wav"
+  },
+  "text": {
+    "dialect_text": "今朝天气蛮好个",
+    "mandarin_translation": "今天天气很好",
+    "normalized_text": "今天天气很好"
+  },
+  "topic": "天气",
+  "quality": "good",
+  "consent_level": "B",
+  "license": "CC BY-NC 4.0",
+  "review_status": "draft",
+  "notes": "虚构样例，不含真实个人信息。"
+}
+

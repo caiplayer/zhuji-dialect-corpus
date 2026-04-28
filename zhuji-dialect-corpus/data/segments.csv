@@ -1,0 +1,5 @@
+segment_id,recording_id,start_sec,end_sec,speaker_id,dialect_text,mandarin_translation,normalized_text,topic,quality,review_status
+ZJ001_S001_0001,ZJ001_S001_20260429_free_001,3.0,8.5,S001,今朝天气蛮好个,今天天气很好,今天天气很好,天气,good,draft
+ZJ001_S001_0002,ZJ001_S001_20260429_free_001,9.0,16.2,S001,老底子过年要做米果个,以前过年要做米果,以前过年要做米果,年俗,good,draft
+ZJ001_S002_0001,ZJ001_S002_20260429_sentence_001,1.0,5.8,S002,侬吃饭了伐,你吃饭了吗,你吃饭了吗,吃饭,good,draft
+
